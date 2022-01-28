@@ -4,7 +4,7 @@ Hello everyone !
 I am enthusiastic second-year Computer Science student at University of Huddersfield, this is my GitHub repository contain my first ever Java CRUD application.
 
 Technologies Used
-* Java
+* Java (Intellij IDEA)
 * Maven
 * Apache Tomcat server
 * Java Servlets
