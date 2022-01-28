@@ -7,14 +7,8 @@ I am enthusiastic second-year Computer Science student at University, this is my
 Technologies Used
 * Java
 * Maven
-
-
-
-
-*Java
-*Maven
-*Apache Tomcat server
-*Java Servlets
-*PostgreSQL
-*JDBC
-*JSP
+* Apache Tomcat server
+* Java Servlets
+* PostgreSQL
+* JDBC
+* JSP
