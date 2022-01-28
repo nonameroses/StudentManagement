@@ -5,6 +5,12 @@ Hello everyone !
 I am enthusiastic second-year Computer Science student at University, this is my first GitHub repository contain my first ever Java CRUD application.
 
 Technologies Used
+* Java
+* Maven
+
+
+
+
 *Java
 *Maven
 *Apache Tomcat server
