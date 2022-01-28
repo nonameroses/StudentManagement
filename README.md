@@ -1,7 +1,7 @@
 # Simple CRUD application in Java
 
 Hello everyone !
-I am enthusiastic second-year Computer Science student at University of Huddersfield, this is my GitHub repository contain my first ever Java CRUD application.
+This is my GitHub repository contain my first ever Java CRUD application.
 
 Technologies Used
 * Java (Intellij IDEA)
@@ -11,3 +11,11 @@ Technologies Used
 * PostgreSQL
 * JDBC
 * JSP
+
+Check Issues page for screenshots of my website application.
+
+# This application enables user to
+* Display all rows in the table
+* Edit row
+* Delete row
+* Add new row
