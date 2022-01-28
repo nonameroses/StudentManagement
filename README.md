@@ -1,8 +1,7 @@
-# StudentManagement
-Simple CRUD application in Java
+# Simple CRUD application in Java
 
 Hello everyone !
-I am enthusiastic second-year Computer Science student at University, this is my first GitHub repository contain my first ever Java CRUD application.
+I am enthusiastic second-year Computer Science student at University of Huddersfield, this is my first GitHub repository contain my first ever Java CRUD application.
 
 Technologies Used
 * Java
